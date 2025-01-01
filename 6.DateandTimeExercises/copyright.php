@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Thông tin Copyright</title>
+</head>
+<body>
+    <?php
+        echo "&copy; " . date("Y") . " Công ty ABC. Mọi quyền được bảo lưu.";
+    ?>
+</body>
+</html>
